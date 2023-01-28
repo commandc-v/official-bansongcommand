@@ -35,7 +35,7 @@
   }
 
   /**
-   * Navbar links active state on scroll
+   * Navbar links active state on scrollß
    */
   let navbarlinks = select('#navbar .scrollto', true)
   const navbarlinksActive = () => {
