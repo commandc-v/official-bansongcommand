@@ -400,6 +400,13 @@
   <script src="vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="vendor/swiper/swiper-bundle.min.js"></script>
   <script src="vendor/php-email-form/validate.js"></script>
+  <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc-STgkAAAAANhrBinJvmXVJFpczEDqOxIZFZ50"></script>
+<script>
+grecaptcha.enterprise.ready(function() {
+    grecaptcha.enterprise.execute('6Lc-STgkAAAAANhrBinJvmXVJFpczEDqOxIZFZ50', {action: 'login'}).then(function(token) {
+    });
+});
+</script>
 
   <!-- Main JS File -->
   <script src="js/main.js"></script>

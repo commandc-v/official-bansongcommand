@@ -1,8 +1,3 @@
-/**
-* PHP Email Form Validation - v3.5
-* URL: https://bootstrapmade.com/php-email-form/
-* Author: BootstrapMade.com
-*/
 (function () {
   "use strict";
 
@@ -15,7 +10,7 @@
       let thisForm = this;
 
       let action = thisForm.getAttribute('action');
-      let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
+      let recaptcha = thisForm.getAttribute('6Lc-STgkAAAAANhrBinJvmXVJFpczEDqOxIZFZ50');
       
       if( ! action ) {
         displayError(thisForm, 'The form action property is not set!')
