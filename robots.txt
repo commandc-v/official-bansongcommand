@@ -7,3 +7,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 Sitemap: https://official-bansongcommand.vercel.app/sitemap.xml
+Sitemap: https://official-bansongcommand.vercel.app/portfolio-official.html
