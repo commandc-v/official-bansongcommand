@@ -380,7 +380,9 @@ h6,
   font-size: 16px;
   display: inline-block;
   transition: 0.5s;
-  margin-left: 25px;
+  margin-top: 10px;
+  margin-left: 1px;
+  padding: 8px, 28px;
   color: #5f687b;
   display: inline-flex;
   align-items: center;
