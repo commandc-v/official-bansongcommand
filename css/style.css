@@ -376,6 +376,28 @@ h6,
   background: #eb5d1e;
 }
 
+#home .btn-watch-video {
+  font-size: 16px;
+  display: inline-block;
+  transition: 0.5s;
+  margin-left: 25px;
+  color: #5f687b;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#home .btn-watch-video i {
+  color: #949cac;
+  font-size: 32px;
+  line-height: 0;
+  margin-right: 8px;
+}
+
+#home .btn-watch-video:hover i {
+  color: #ef7f4d;
+}
+
 #home .btn-get-started:hover {
   background: #ef7f4d;
 }
