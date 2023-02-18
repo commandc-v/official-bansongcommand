@@ -6,5 +6,5 @@ Allow: /
 
 User-agent: Yeti
 Allow: /
-Sitemap: https://official-bansongcommand.vercel.app/sitemap.xml
-Sitemap: https://official-bansongcommand.vercel.app/portfolio-official.html
+Sitemap: https://official-bansongcommand.swygbro.com/sitemap.xml
+Sitemap: https://official-bansongcommand.swygbro.com/portfolio-official.html
